@@ -23,7 +23,7 @@ Presenting Swin-SFTNet, a transformative U-net-shaped transformer-based architec
   <img src="Figure/Fig1.png" width="400"/>
 </div>
 <div align="right">
-  <img src="Figure/Fig1.png" width="400"/>
+  <img src="Figure/Fig2.png" width="400"/>
 </div>
 ## Training
 
