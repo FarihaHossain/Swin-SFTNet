@@ -19,10 +19,15 @@ Official PyTorch implementation of \[ISBI 2023\] [**Swin-sftnet: spatial feature
 
 Presenting Swin-SFTNet, a transformative U-net-shaped transformer-based architecture revolutionizing breast mass segmentation in mammography. By integrating the Spatial Feature Expansion and Aggregation Block (SFEA) with Swin transformer blocks, Swin-SFTNet excels in capturing both global and local features for enhanced segmentation accuracy. Additionally, a novel embedding loss function further refines the model's performance. Rigorous evaluation showcases Swin-SFTNet's superiority, achieving a segmentation dice improvement of 3.10% on CBIS-DDSM, 3.81% on InBreast, and 3.13% on the CBIS pre-trained model on the InBreast test dataset compared to state-of-the-art architectures.
 
-<p float="left">
-  <img src="Figure/Fig1.png" width="500" />
-  <img src="Figure/Fig2.png" width="500" /> 
+
+<p align="center">
+  <img alt="Light" src="Figure/Fig1.png" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Dark" src="Figure/Fig2.png" width="45%">
 </p>
+
+
+
 
 ## Training
 
